@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of psyQmd is to ...
+作成中です。まだ使えません...
 
 ## Installation
 
